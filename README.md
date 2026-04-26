@@ -3,7 +3,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/AjocMod/total?color=%2392403a)](https://github.com/Spellhold-Studios/AjocMod/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux-%2392403a)](https://github.com/Spellhold-Studios/AjocMod/releases)
 [![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT-%2392403a)](https://github.com/Spellhold-Studios/AjocMod/releases)
-[![Language](https://img.shields.io/badge/language-en%20%a0%20de%20%a0%20es%20%a0%20it%20%a0%20ru-%2392403a)](https://github.com/Spellhold-Studios/AjocMod/releases)
+[![Language](https://img.shields.io/badge/language-en%20%a0%20de%20%a0%20es%20%a0%20it%20%a0%20ru%20%a0%20sc-%2392403a)](https://github.com/Spellhold-Studios/AjocMod/releases)
 
 <!--
 Badges white space separator: %20%a0%20
@@ -71,6 +71,7 @@ While Ajoc's Minimod originally required The Darkest Day mega-mod, this version 
 - **Italian**:&nbsp; Ilot
 - **Russian**:&nbsp; Brodiaga, Alex, AERIE.RU
 - **Spanish**:&nbsp; Clan REO
+- **Simplified Chinese**:&nbsp; MephistoSatanDevil
 
 **Special thanks**  
 
@@ -91,6 +92,7 @@ While Ajoc's Minimod originally required The Darkest Day mega-mod, this version 
 ## Version History
 
 v1.7 (February 2026)
+- Simplified Chinese by MephistoSatanDevil
 - Regular journal entries to quests
 - Cre corrections
 - Autotra/Designated/Label/WeiduAutoPackager/Requirepredicate/Metadata
