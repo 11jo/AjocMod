@@ -5,6 +5,7 @@
 //Special Thanks to Lee Watts who did some base mod and weidu tweaks to improve the mod.
 
 v1.7 (February 2026)
+- Simplified Chinese by MephistoSatanDevil
 - Regular journal entries to quests
 - Cre corrections
 - Autotra/Designated/Label/WeiduAutoPackager/Requirepredicate/Metadata
